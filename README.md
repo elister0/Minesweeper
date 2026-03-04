@@ -53,12 +53,12 @@ javac *.java
 java Minesweeper
 
 ##  Project Structure
-Minesweeper.java               # Main runner class
-MinesweeperFrame.java          # Main application window
-MinesweeperModel.java          # Game logic and board state (Serializable)
-MinesweeperPanel.java          # Grid UI and tile rendering
-MinesweeperPanelBorder.java    # Border layout + mine counter + win/loss display
-MinesweeperFileChooser.java    # Save and load functionality
+- Minesweeper.java               # Main runner class
+- MinesweeperFrame.java          # Main application window
+- MinesweeperModel.java          # Game logic and board state (Serializable)
+- MinesweeperPanel.java          # Grid UI and tile rendering
+- MinesweeperPanelBorder.java    # Border layout + mine counter + win/loss display
+- MinesweeperFileChooser.java    # Save and load functionality
 
 ## Design Overview
 Design Overview
