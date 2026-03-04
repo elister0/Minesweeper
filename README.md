@@ -61,7 +61,7 @@ java Minesweeper
 - MinesweeperPanel.java          # Grid UI and tile rendering
 - MinesweeperPanelBorder.java    # Border layout + mine counter + win/loss display
 - MinesweeperFileChooser.java    # Save and load functionality
-
+---
 ## Design Overview
 Design Overview
 ### Model
