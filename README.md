@@ -52,6 +52,8 @@ javac *.java
 ### 2. Run
 java Minesweeper
 
+---
+
 ##  Project Structure
 - Minesweeper.java               # Main runner class
 - MinesweeperFrame.java          # Main application window
@@ -79,6 +81,7 @@ MinesweeperPanel and MinesweeperPanelBorder
 - Mouse listeners handle tile interaction
 - Menu actions handle difficulty changes, saving, and loading
 
+---
 ## Tile Status System
 Each tile is represented internally by an integer value:
 Value	Meaning
@@ -91,7 +94,7 @@ Value	Meaning
 - 6	Correctly flagged mine
 - 7	Flag on adjacent tile
 - 8	Flag on empty tile
-
+---
 ## Technologies Used
 - Java
 - Java Swing (GUI)
